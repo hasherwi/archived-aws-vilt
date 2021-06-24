@@ -40,4 +40,4 @@ CLASS IS STARTING STEPS:
 3. Use OBS's full-screen projector and set that screen to be shared.
 4. Set VoiceMeeting output to be the microphone and check that all meeting audio settings (music mode, background noise).
 
-IF ENCOUNTERING CPU ISSUES, SCALE DOWN YOUR OBS PROJECTOR SIZE AND/OR OBS CANVAS SIZE.
+IF ENCOUNTERING CPU ISSUES, SCALE DOWN YOUR OBS PROJECTOR SIZE AND/OR OBS CANVAS SIZE. DISABLE PREVIEW IN OBS.
