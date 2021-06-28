@@ -1,6 +1,7 @@
 # aws-vilt
 
 PHYSICAL RESOURCES USED:
+One laptop (HP Elitebook 840 G6
 Two monitors (Three recommended)
 Webcam (Logitech BRIO 4K Recommended)
 Microphone (Yeti)
