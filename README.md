@@ -1,29 +1,29 @@
 # aws-vilt
 
 PHYSICAL RESOURCES USED:
-One laptop (HP Elitebook 840 G6
-Two monitors (Three recommended)
-Webcam (Logitech BRIO 4K Recommended)
-Microphone (Yeti)
-Elgato StreamDeck (for Orchestration)
-Wacom Drawing Tablet (I use an Intuos S)
+- One laptop (HP Elitebook 840 G6)
+- Two monitors (Three recommended)
+- Webcam (Logitech BRIO 4K Recommended)
+- Microphone (Yeti)
+- Elgato StreamDeck (for Orchestration)
+- Wacom Drawing Tablet (I use an Intuos S)
 
 DIGITAL SOFTWARE USED:
-OBS (Visuals Creation, DONATE): https://obsproject.com/download
-VoiceMeeter (Audio Mixing, DONATE): https://www.vb-audio.com/Voicemeeter/banana.htm
-StreamDeck 5.0 (Orchestration): https://www.elgato.com/en/downloads
-Epic Pen (Annotation SW, $25 for Pro Version, Win Only): https://epic-pen.com/#download
-Wacom Driver (Annotation HW): https://www.wacom.com/en-us/support/product-support/drivers
+- OBS (Visuals Creation, DONATE): https://obsproject.com/download
+- VoiceMeeter (Audio Mixing, DONATE): https://www.vb-audio.com/Voicemeeter/banana.htm
+- StreamDeck 5.0 (Orchestration): https://www.elgato.com/en/downloads
+- Epic Pen (Annotation SW, $25 for Pro Version, Windows Only): https://epic-pen.com/#download
+- Wacom Driver (Annotation HW): https://www.wacom.com/en-us/support/product-support/drivers
 
 ASSETS FOR OBS:
-LUT: https://obsproject.com/forum/resources/free-lut-filter-pack.594/
-OBS text-plugin: https://obsproject.com/forum/resources/countdown-timer-stream-timer.713/updates
-OBS Ticker: https://obsproject.com/forum/resources/teletype-news-ticker.725/
+- LUT: https://obsproject.com/forum/resources/free-lut-filter-pack.594/
+- OBS text-plugin: https://obsproject.com/forum/resources/countdown-timer-stream-timer.713/updates
+- OBS Ticker: https://obsproject.com/forum/resources/teletype-news-ticker.725/
 
 AWS ASSETS:
-Ember v2 Font: https://brand.amazon.com/aws/sub-brands/aws-training-and-certification/#Typography
-JPG Extracts from PPT Template: https://brand.amazon.com/aws/sub-brands/aws-training-and-certification/
-T&C Logo: https://brand.amazon.com/aws/sub-brands/aws-training-and-certification/#Visual-Guidelines
+- Ember v2 Font: https://brand.amazon.com/
+- JPG Extracts from PPT Template: https://brand.amazon.com/
+- T&C Logo: https://brand.amazon.com/
 
 CONFIGURATION STEPS:
 1. Physical Set-Up
